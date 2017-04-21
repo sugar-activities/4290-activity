@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY ns_svg "http://www.w3.org/2000/svg">
+    <!ENTITY ns_xlink " http://www.w3.org/1999/xlink">
+    <!ENTITY stroke_color "#AAAAAA">
+    <!ENTITY fill_color "#FFFFFF">
+]>
+
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="55" width="55" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs id="defs3208" />
+<g stroke-linejoin="miter" transform="scale(0.07) translate(-3.576666,-80.89799) " stroke="&stroke_color;" stroke-linecap="butt" stroke-width="10px" fill="&fill_color;">
+<path d="m35.8,513c179-557,338-2.24,338-2.24s148,544,322-11.2"/>
+<path d="M38.1,511c656-12,656-12,656-12"/>
+</g>
+</svg>

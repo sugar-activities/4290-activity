@@ -1,0 +1,5 @@
+Tempo = 120
+Key = E
+Mode = major
+
+

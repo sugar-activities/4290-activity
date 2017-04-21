@@ -1,0 +1,4 @@
+Tempo = 65
+Key = E
+Mode = minor
+

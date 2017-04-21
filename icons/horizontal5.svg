@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY ns_svg "http://www.w3.org/2000/svg">
+    <!ENTITY ns_xlink " http://www.w3.org/1999/xlink">
+    <!ENTITY stroke_color "#000000">
+    <!ENTITY fill_color "#FFFFFF">
+]>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" 
+	xmlns:cc="http://creativecommons.org/ns#" 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:svg="http://www.w3.org/2000/svg" 
+	xmlns="http://www.w3.org/2000/svg" 
+	version="1.1" width="302" height="224" id="svg2">
+
+  <defs id="defs8" />
+  <path style="fill:&fill_color;;stroke:&stroke_color;;stroke-opacity:1" 
+  d="m 257.26822,48.179362 43.29096,38.869316 0,7.09365 0,7.093652 -42.69521,39.25801 c -34.75192,31.09545 -43.68813,38.86932 -46.66687,38.86932 h -3.60427 l 11.71636,-37.89759 11.71637,-37.89758 h -77.8443 -77.8443 l 11.716362,37.89758 11.716361,37.89759 h -3.604271 c -2.879444,0 -12.212817,-7.92934 -46.269697,-39.25801 L 6.2005,99.292512 v -7.09365 -7.09365 L 49.789335,45.069816 C 79.576694,17.861295 93.477462,6.2005 95.463286,6.2005 h 3.008523 L 86.457574,45.069816 74.44334,83.939133 h 77.8443 77.8443 L 218.1177,45.069816 206.10347,6.2005 l 3.31632,0.1346822 c 2.41278,0.098339 15.09226,10.9611468 46.56757,40.0353958 z" 
+  id="path4" />
+</svg>

@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY ns_svg "http://www.w3.org/2000/svg">
+    <!ENTITY ns_xlink " http://www.w3.org/1999/xlink">
+    <!ENTITY stroke_color "#000000">
+    <!ENTITY fill_color "#FFFFFF">
+]>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="55"
+   height="55"
+   viewBox="0 0 353.963 218.583"
+   id="Layer_1"
+   xml:space="preserve">
+   <defs
+   id="defs530" />
+
+
+<g 
+   id="g5">
+	style="fill:&fill_color;;fill:&fill_color;;
+		<polygon
+   points="216.001,98.991 251.754,98.991 251.754,117.056 216.001,117.056 216.001,98.991 "
+   style="fill:&fill_color;;fill-rule:evenodd;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon7" />
+	
+		<polygon
+   points="216.001,109.616 251.754,109.616 251.754,112.264 216.001,112.264 216.001,109.616 "
+   style="fill:&fill_color;;fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon9" />
+	
+		<polygon
+   points="216.001,114.251 251.754,114.251 251.754,116.016 216.001,116.016 216.001,114.251 "
+   style="fill:&fill_color;;fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon11" />
+	
+		<path
+   d="M 251.754,98.991 C 290.218,99.117 299.141,123.645 299.141,149.151 C 299.141,174.626 288.83,198.176 251.754,198.115 L 251.754,198.115 L 251.754,180.081 L 251.754,180.081 C 276.786,179.45 282.525,165.798 282.525,148.521 C 282.525,131.244 276.504,117.781 251.754,117.055 L 251.754,117.055 L 251.754,98.991 L 251.754,98.991 z "
+   style="fill:&fill_color;;fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path13" />
+	
+		<path
+   d="M 90.678,55.42 C 96.763,54.253 108.365,52.992 126.052,51.636 C 143.865,50.249 176.623,48.83 196.265,47.285 C 215.812,45.708 226.532,44.415 242.516,42.367 C 258.5,40.318 277.922,38.078 291.258,35.115 C 304.531,32.12 314.115,28.147 321.619,24.616 C 329.092,21.116 333.695,17.68 335.744,14.15 C 335.649,11.123 336.028,8.506 336.942,6.205 C 337.825,3.903 339.369,0.909 341.103,0.435 C 342.869,-0.006 345.517,-1.016 347.409,3.462 C 349.301,8.002 351.382,20.928 352.359,27.265 C 353.337,33.571 352.895,34.642 353.147,41.011 C 353.431,47.443 353.873,56.491 353.935,65.383 C 353.998,74.305 353.746,85.907 353.557,93.946 C 353.368,101.923 353.777,106.652 352.768,113.052 C 351.759,119.451 349.647,128.5 347.535,132.031 C 345.423,135.468 341.986,134.553 340.189,133.733 C 338.423,132.85 337.635,129.129 336.942,126.923 C 336.216,124.684 335.87,122.603 335.87,120.491 C 329.816,114.027 319.034,108.226 302.923,102.772 C 286.718,97.318 262.378,90.665 239.805,88.08 C 217.167,85.526 193.649,87.985 168.52,87.544 C 143.298,87.071 105.969,85.306 90.142,85.368 C 62.744,85.463 48.62,110.621 48.62,133.164 C 48.62,157.409 66.654,176.925 90.679,180.078 L 90.679,180.078 L 90.679,198.112 L 90.679,198.112 C 42.472,198.332 25.322,163.903 25.322,126.764 C 25.32,89.659 50.7,60.306 90.678,55.42 L 90.678,55.42 L 90.678,55.42 z "
+   style="fill:&fill_color;;fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path15" />
+	
+		<path
+   d="M 90.678,190.674 C 87.84,190.674 84.782,190.233 81.377,189.476 C 77.909,188.594 73.779,187.364 70.311,185.788 C 66.717,184.181 63.47,182.163 60.443,179.734 C 57.322,176.992 53.538,171.631 52.025,170.465 C 50.449,169.393 50.007,171.095 51.3,173.271 C 52.561,175.352 56.218,180.049 59.844,182.982 C 63.501,185.851 68.64,188.594 72.833,190.359 C 76.932,191.935 81.251,192.408 84.341,192.881 C 87.273,193.354 89.385,193.512 90.678,193.354 L 90.678,193.354 L 90.678,190.674 L 90.678,190.674 z "
+   style="fill:&fill_color;;fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path17" />
+	
+		<path
+   d="M 339.779,13.519 C 339.148,11.565 338.991,9.767 339.18,8.254 C 339.401,6.614 340.094,4.943 341.008,4.218 C 341.765,3.462 343.404,2.989 344.224,4.029 C 344.95,4.975 345.422,6.992 345.643,10.082 L 345.643,10.082 C 344.288,8.822 343.184,8.443 342.206,9.073 C 341.229,9.641 340.379,11.123 339.779,13.519 L 339.779,13.519 z "
+   style="fill:&fill_color;;fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path19" />
+	
+		<path
+   d="M 340.6,119.168 C 340.411,122.069 340.568,124.244 341.199,125.821 C 341.766,127.366 343.185,128.785 344.225,128.249 C 345.203,127.555 346.149,125.506 347.063,121.975 L 347.063,121.975 C 345.928,123.772 344.887,124.497 343.816,124.024 C 342.712,123.52 341.64,121.942 340.6,119.168 L 340.6,119.168 z "
+   style="fill:&fill_color;;fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path21" />
+	
+		<path
+   d="M 216.159,67.211 C 232.428,66.864 248.348,66.801 264.774,66.896 C 281.106,67.022 301.788,64.878 313.706,67.874 C 325.434,70.837 331.267,78.026 335.334,84.205 C 339.275,90.164 338.96,101.451 337.668,103.848 C 336.249,106.15 332.528,101.988 327.357,98.172 C 322.155,94.074 315.03,84.269 306.707,80.548 C 298.194,76.985 295.734,78.09 277.07,76.544 C 258.216,74.904 231.45,72.823 195.192,70.554 L 195.192,70.554 C 202.16,69.449 209.159,68.346 216.159,67.211 L 216.159,67.211 z "
+   style="fill:&fill_color;;fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path23" />
+	
+		<path
+   d="M 287.064,52.582 C 295.766,53.118 304.373,52.046 313.358,49.24 C 322.25,46.403 331.203,42.052 340.346,35.936 L 340.346,35.936 C 335.807,43.849 329.312,49.051 320.358,51.889 C 311.31,54.663 300.496,54.852 287.064,52.582 L 287.064,52.582 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path25" />
+	
+		<path
+   d="M 34.053,133.388 C 33.454,133.419 32.288,123.268 32.729,117.75 C 33.076,112.232 34.211,105.77 36.386,100.441 C 38.498,94.892 41.778,89.847 45.372,85.434 C 48.872,81.052 52.907,77.52 57.352,74.462 C 61.735,71.278 65.739,69.008 71.666,66.801 C 77.499,64.499 88.881,61.631 92.317,61.126 C 95.533,60.685 94.871,62.23 91.655,63.806 C 88.312,65.256 79.296,66.928 72.99,69.797 C 66.653,72.54 59.874,75.567 54.357,80.454 C 48.713,85.371 43.133,92.844 40.044,99.087 C 36.891,105.267 37.017,111.225 36.04,117.089 C 34.968,122.826 34.589,133.199 34.053,133.388 L 34.053,133.388 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path27" />
+	
+		<polygon
+   points="90.678,180.081 251.754,180.081 251.754,198.115 90.678,198.115 90.678,180.081 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon29" />
+	
+		<polygon
+   points="90.678,195.34 251.754,195.34 251.754,197.105 90.678,197.105 90.678,195.34 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon31" />
+	
+		<path
+   d="M 124.854,98.36 L 123.499,98.328 L 123.499,98.328 C 97.299,98.298 89.638,115.764 89.638,137.266 C 89.638,158.799 104.803,176.235 123.499,176.235 L 123.499,176.235 L 124.854,176.203 L 124.854,158.706 L 124.854,158.706 C 109.311,158.517 106.694,148.554 106.694,136.856 C 106.694,125.158 110.257,115.733 124.854,115.828 L 124.854,115.828 L 124.854,98.36 L 124.854,98.36 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path33" />
+	
+		<path
+   d="M 124.854,169.077 C 122.584,169.298 120.157,169.14 117.697,168.478 C 115.175,167.815 112.243,166.618 109.878,165.231 C 107.45,163.717 104.171,160.06 103.32,159.712 C 102.468,159.208 103.099,161.542 104.487,162.96 C 105.716,164.41 108.554,167.059 110.824,168.478 C 113.063,169.77 115.238,170.527 117.697,171.094 C 120.062,171.63 122.364,171.82 124.854,171.787 L 124.854,171.787 L 124.854,169.077 L 124.854,169.077 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path35" />
+	
+		<path
+   d="M 189.455,67.558 C 194.53,69.134 199.858,69.954 205.219,69.954 C 210.547,69.954 215.875,69.134 220.951,67.558 L 220.951,67.558 L 220.951,211.546 L 220.951,211.546 C 215.875,213.122 210.547,213.942 205.219,213.942 C 199.859,213.942 194.531,213.123 189.455,211.546 L 189.455,211.546 L 189.455,67.558 L 189.455,67.558 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path37" />
+	
+		<polygon
+   points="200.867,38.52 209.096,38.52 209.096,57.122 200.867,57.122 200.867,38.52 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon39" />
+	
+		<path
+   d="M 193.994,39.056 C 197.746,39.971 201.246,40.38 205.155,40.38 C 209.033,40.38 212.532,39.97 216.284,39.056 L 216.284,39.056 L 216.284,31.647 L 216.284,31.647 C 212.532,32.529 209.033,32.971 205.155,32.971 C 201.246,32.971 197.746,32.53 193.994,31.647 L 193.994,31.647 L 193.994,39.056 L 193.994,39.056 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path41" />
+	
+		<path
+   d="M 196.327,30.165 C 199.322,30.985 202.066,31.363 205.123,31.363 C 208.182,31.363 210.956,30.985 213.951,30.165 L 213.951,30.165 L 213.951,30.165 C 210.956,29.377 208.181,28.998 205.123,28.998 C 202.066,28.999 199.322,29.377 196.327,30.165 L 196.327,30.165 L 196.327,30.165 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path43" />
+	
+		<path
+   d="M 196.359,29.976 L 196.356,29.986 C 199.228,30.671 202.171,31.017 205.123,31.017 C 208.077,31.017 211.019,30.671 213.892,29.986 L 213.952,30.039 L 216.285,31.647 L 216.253,31.663 C 212.607,32.532 208.872,32.971 205.124,32.971 C 201.377,32.971 197.643,32.533 193.997,31.663 L 193.995,31.647 L 196.328,30.039 L 196.359,29.976 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path45" />
+	
+		<path
+   d="M 189.391,210.379 C 194.467,211.955 199.795,212.744 205.123,212.744 C 210.452,212.744 215.78,211.955 220.888,210.379 L 220.888,210.379 L 221.424,210.852 L 221.424,210.852 C 216.032,212.524 210.768,213.469 205.123,213.469 C 199.48,213.469 194.246,212.586 188.855,210.915 L 188.855,210.915 L 189.391,210.379 L 189.391,210.379 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path47" />
+	
+		<path
+   d="M 188.887,210.946 C 188.887,210.946 196.895,213.468 205.03,213.468 C 213.165,213.437 221.456,210.851 221.456,210.851 L 221.456,210.851 L 221.456,214.792 L 221.456,214.792 C 221.456,214.792 213.165,217.377 205.03,217.409 C 196.895,217.439 188.887,214.886 188.887,214.886 L 188.887,214.886 L 188.887,210.946 L 188.887,210.946 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path49" />
+	
+		<polygon
+   points="189.864,212.019 189.864,214.445 190.021,214.445 190.021,212.019 189.864,212.019 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon51" />
+	
+		<polygon
+   points="190.369,212.176 190.369,214.604 190.526,214.604 190.526,212.176 190.369,212.176 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon53" />
+	
+		<polygon
+   points="190.842,212.303 190.842,214.729 190.999,214.729 190.999,212.303 190.842,212.303 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon55" />
+	
+		<polygon
+   points="191.346,212.46 191.346,214.887 191.504,214.887 191.504,212.46 191.346,212.46 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon57" />
+	
+		<polygon
+   points="191.852,212.586 191.852,215.014 192.008,215.014 192.008,212.586 191.852,212.586 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon59" />
+	
+		<polygon
+   points="192.354,212.712 192.354,215.14 192.481,215.14 192.481,212.712 192.354,212.712 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon61" />
+	
+		<polygon
+   points="192.828,212.807 192.828,215.266 192.986,215.266 192.986,212.807 192.828,212.807 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon63" />
+	
+		<polygon
+   points="193.332,212.933 193.332,215.36 193.49,215.36 193.49,212.933 193.332,212.933 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon65" />
+	
+		<polygon
+   points="193.837,213.059 193.837,215.486 193.994,215.486 193.994,213.059 193.837,213.059 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon67" />
+	
+		<polygon
+   points="194.342,213.153 194.342,215.581 194.498,215.581 194.498,213.153 194.342,213.153 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon69" />
+	
+		<polygon
+   points="194.846,213.248 194.846,215.676 195.004,215.676 195.004,213.248 194.846,213.248 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon71" />
+	
+		<polygon
+   points="195.35,213.343 195.35,215.771 195.508,215.771 195.508,213.343 195.35,213.343 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon73" />
+	
+		<polygon
+   points="195.854,213.438 195.854,215.864 196.013,215.864 196.013,213.438 195.854,213.438 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon75" />
+	
+		<polygon
+   points="196.359,213.531 196.359,215.96 196.516,215.96 196.516,213.531 196.359,213.531 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon77" />
+	
+		<polygon
+   points="196.863,213.595 196.863,216.054 197.021,216.054 197.021,213.595 196.863,213.595 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon79" />
+	
+		<polygon
+   points="197.368,213.689 197.368,216.117 197.525,216.117 197.525,213.689 197.368,213.689 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon81" />
+	
+		<polygon
+   points="197.903,213.752 197.903,216.18 198.03,216.18 198.03,213.752 197.903,213.752 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon83" />
+	
+		<polygon
+   points="198.408,213.815 198.408,216.243 198.535,216.243 198.535,213.815 198.408,213.815 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon85" />
+	
+		<polygon
+   points="198.912,213.879 198.912,216.306 199.07,216.306 199.07,213.879 198.912,213.879 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon87" />
+	
+		<polygon
+   points="199.418,213.941 199.418,216.369 199.574,216.369 199.574,213.941 199.418,213.941 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon89" />
+	
+		<polygon
+   points="199.922,214.005 199.922,216.433 200.079,216.433 200.079,214.005 199.922,214.005 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon91" />
+	
+		<polygon
+   points="200.457,214.036 200.457,216.464 200.584,216.464 200.584,214.036 200.457,214.036 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon93" />
+	
+		<polygon
+   points="200.962,214.067 200.962,216.526 201.12,216.526 201.12,214.067 200.962,214.067 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon95" />
+	
+		<polygon
+   points="201.467,214.131 201.467,216.559 201.624,216.559 201.624,214.131 201.467,214.131 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon97" />
+	
+		<polygon
+   points="201.971,214.163 201.971,216.59 202.129,216.59 202.129,214.163 201.971,214.163 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon99" />
+	
+		<polygon
+   points="202.476,214.163 202.476,216.621 202.633,216.621 202.633,214.163 202.476,214.163 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon101" />
+	
+		<polygon
+   points="203.011,214.193 203.011,216.621 203.169,216.621 203.169,214.193 203.011,214.193 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon103" />
+	
+		<polygon
+   points="203.516,214.225 203.516,216.653 203.674,216.653 203.674,214.225 203.516,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon105" />
+	
+		<polygon
+   points="204.021,214.225 204.021,216.653 204.178,216.653 204.178,214.225 204.021,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon107" />
+	
+		<polygon
+   points="204.557,214.225 204.557,216.685 204.683,216.685 204.683,214.225 204.557,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon109" />
+	
+		<polygon
+   points="205.062,214.225 205.062,216.685 205.219,216.685 205.219,214.225 205.062,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon111" />
+	
+		<polygon
+   points="205.564,214.225 205.564,216.685 205.723,216.685 205.723,214.225 205.564,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon113" />
+	
+		<polygon
+   points="206.069,214.225 206.069,216.653 206.228,216.653 206.228,214.225 206.069,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon115" />
+	
+		<polygon
+   points="206.605,214.225 206.605,216.653 206.763,216.653 206.763,214.225 206.605,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon117" />
+	
+		<polygon
+   points="207.11,214.193 207.11,216.621 207.268,216.621 207.268,214.193 207.11,214.193 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon119" />
+	
+		<polygon
+   points="207.615,214.193 207.615,216.621 207.772,216.621 207.772,214.193 207.615,214.193 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon121" />
+	
+		<polygon
+   points="208.15,214.163 208.118,216.59 208.276,216.59 208.276,214.163 208.15,214.163 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon123" />
+	
+		<polygon
+   points="208.655,214.131 208.655,216.559 208.813,216.559 208.813,214.131 208.655,214.131 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon125" />
+	
+		<polygon
+   points="209.159,214.1 209.159,216.526 209.316,216.526 209.316,214.1 209.159,214.1 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon127" />
+	
+		<polygon
+   points="209.664,214.036 209.664,216.464 209.821,216.464 209.821,214.036 209.664,214.036 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon129" />
+	
+		<polygon
+   points="210.169,214.005 210.169,216.433 210.326,216.433 210.326,214.005 210.169,214.005 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon131" />
+	
+		<polygon
+   points="210.704,213.941 210.704,216.369 210.831,216.369 210.831,213.941 210.704,213.941 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon133" />
+	
+		<polygon
+   points="211.209,213.879 211.209,216.306 211.366,216.306 211.366,213.879 211.209,213.879 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon135" />
+	
+		<polygon
+   points="211.713,213.815 211.713,216.243 211.87,216.243 211.87,213.815 211.713,213.815 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon137" />
+	
+		<polygon
+   points="212.218,213.752 212.218,216.18 212.375,216.18 212.375,213.752 212.218,213.752 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon139" />
+	
+		<polygon
+   points="212.723,213.689 212.723,216.117 212.88,216.117 212.88,213.689 212.723,213.689 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon141" />
+	
+		<polygon
+   points="213.227,213.595 213.227,216.054 213.385,216.054 213.385,213.595 213.227,213.595 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon143" />
+	
+		<polygon
+   points="213.73,213.531 213.73,215.96 213.889,215.96 213.889,213.531 213.73,213.531 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon145" />
+	
+		<polygon
+   points="214.235,213.438 214.267,215.864 214.393,215.864 214.393,213.438 214.235,213.438 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon147" />
+	
+		<polygon
+   points="214.771,213.343 214.74,215.771 214.897,215.771 214.897,213.343 214.771,213.343 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon149" />
+	
+		<polygon
+   points="215.276,213.248 215.244,215.676 215.402,215.676 215.402,213.248 215.276,213.248 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon151" />
+	
+		<polygon
+   points="215.748,213.153 215.748,215.581 215.906,215.581 215.906,213.153 215.748,213.153 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon153" />
+	
+		<polygon
+   points="216.253,213.059 216.253,215.486 216.411,215.486 216.411,213.059 216.253,213.059 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon155" />
+	
+		<polygon
+   points="216.758,212.933 216.758,215.36 216.915,215.36 216.915,212.933 216.758,212.933 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon157" />
+	
+		<polygon
+   points="217.262,212.807 217.262,215.266 217.42,215.266 217.42,212.807 217.262,212.807 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon159" />
+	
+		<polygon
+   points="217.767,212.712 217.767,215.14 217.924,215.14 217.924,212.712 217.767,212.712 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon161" />
+	
+		<polygon
+   points="218.271,212.586 218.271,215.014 218.429,215.014 218.429,212.586 218.271,212.586 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon163" />
+	
+		<polygon
+   points="218.775,212.46 218.775,214.887 218.901,214.887 218.901,212.46 218.775,212.46 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon165" />
+	
+		<polygon
+   points="219.248,212.303 219.248,214.762 219.406,214.762 219.406,212.303 219.248,212.303 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon167" />
+	
+		<polygon
+   points="219.753,212.176 219.753,214.604 219.911,214.604 219.911,212.176 219.753,212.176 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon169" />
+	
+		<polygon
+   points="220.257,212.019 220.257,214.478 220.384,214.478 220.384,212.019 220.257,212.019 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon171" />
+	
+		<path
+   d="M 152.851,67.558 C 157.958,69.134 163.287,69.954 168.616,69.954 C 173.944,69.954 179.272,69.134 184.38,67.558 L 184.38,67.558 L 184.38,211.546 L 184.38,211.546 C 179.273,213.122 173.944,213.942 168.616,213.942 C 163.287,213.942 157.959,213.123 152.851,211.546 L 152.851,211.546 L 152.851,67.558 L 152.851,67.558 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path173" />
+	
+		<polygon
+   points="164.295,38.52 172.492,38.52 172.492,57.122 164.295,57.122 164.295,38.52 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon175" />
+	
+		<path
+   d="M 157.39,39.056 C 161.174,39.971 164.674,40.38 168.551,40.38 C 172.43,40.38 175.929,39.97 179.713,39.056 L 179.713,39.056 L 179.713,31.647 L 179.713,31.647 C 175.929,32.529 172.43,32.971 168.551,32.971 C 164.674,32.971 161.174,32.53 157.39,31.647 L 157.39,31.647 L 157.39,39.056 L 157.39,39.056 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path177" />
+	
+		<path
+   d="M 159.755,30.134 C 162.719,30.89 165.493,31.269 168.551,31.269 C 171.61,31.269 174.385,30.89 177.348,30.134 L 177.348,30.134 L 177.348,30.134 C 174.385,29.345 171.61,28.998 168.551,28.998 C 165.493,28.999 162.719,29.346 159.755,30.134 L 159.755,30.134 L 159.755,30.134 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path179" />
+	
+		<path
+   d="M 159.787,29.976 L 159.777,29.986 C 162.652,30.671 165.597,31.017 168.551,31.017 C 171.507,31.017 174.451,30.671 177.326,29.986 L 177.347,30.039 L 179.712,31.647 L 179.686,31.663 C 176.039,32.532 172.301,32.971 168.55,32.971 C 164.801,32.971 161.063,32.533 157.416,31.663 L 157.39,31.647 L 159.755,30.039 L 159.787,29.976 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path181" />
+	
+		<path
+   d="M 152.788,210.379 C 157.895,211.955 163.224,212.744 168.551,212.744 C 173.879,212.744 179.208,211.955 184.316,210.379 L 184.316,210.379 L 184.852,210.852 L 184.852,210.852 C 179.46,212.524 174.196,213.469 168.551,213.469 C 162.908,213.469 157.643,212.586 152.252,210.915 L 152.252,210.915 L 152.788,210.379 L 152.788,210.379 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path183" />
+	
+		<path
+   d="M 152.283,210.946 C 152.283,210.946 160.323,213.468 168.457,213.468 C 176.592,213.437 184.852,210.851 184.852,210.851 L 184.852,210.851 L 184.852,214.792 L 184.852,214.792 C 184.852,214.792 176.592,217.377 168.457,217.409 C 160.323,217.439 152.283,214.886 152.283,214.886 L 152.283,214.886 L 152.283,210.946 L 152.283,210.946 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path185" />
+	
+		<polygon
+   points="153.292,212.019 153.292,214.445 153.449,214.445 153.418,212.019 153.292,212.019 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon187" />
+	
+		<polygon
+   points="153.765,212.176 153.765,214.604 153.922,214.604 153.922,212.176 153.765,212.176 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon189" />
+	
+		<polygon
+   points="154.269,212.303 154.269,214.729 154.427,214.729 154.427,212.303 154.269,212.303 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon191" />
+	
+		<polygon
+   points="154.774,212.46 154.774,214.887 154.9,214.887 154.932,212.46 154.774,212.46 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon193" />
+	
+		<polygon
+   points="155.247,212.586 155.247,215.014 155.404,215.014 155.404,212.586 155.247,212.586 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon195" />
+	
+		<polygon
+   points="155.751,212.712 155.751,215.14 155.909,215.14 155.909,212.712 155.751,212.712 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon197" />
+	
+		<polygon
+   points="156.255,212.807 156.255,215.266 156.413,215.266 156.413,212.807 156.255,212.807 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon199" />
+	
+		<polygon
+   points="156.76,212.933 156.76,215.36 156.917,215.36 156.917,212.933 156.76,212.933 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon201" />
+	
+		<polygon
+   points="157.265,213.059 157.265,215.486 157.422,215.486 157.422,213.059 157.265,213.059 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon203" />
+	
+		<polygon
+   points="157.769,213.153 157.769,215.581 157.927,215.581 157.927,213.153 157.769,213.153 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon205" />
+	
+		<polygon
+   points="158.273,213.248 158.273,215.676 158.431,215.676 158.431,213.248 158.273,213.248 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon207" />
+	
+		<polygon
+   points="158.777,213.343 158.777,215.771 158.936,215.771 158.936,213.343 158.777,213.343 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon209" />
+	
+		<polygon
+   points="159.282,213.438 159.282,215.864 159.44,215.864 159.44,213.438 159.282,213.438 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon211" />
+	
+		<polygon
+   points="159.787,213.531 159.787,215.96 159.944,215.96 159.944,213.531 159.787,213.531 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon213" />
+	
+		<polygon
+   points="160.291,213.595 160.291,216.054 160.449,216.054 160.449,213.595 160.291,213.595 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon215" />
+	
+		<polygon
+   points="160.795,213.689 160.795,216.117 160.953,216.117 160.953,213.689 160.795,213.689 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon217" />
+	
+		<polygon
+   points="161.3,213.752 161.3,216.18 161.458,216.18 161.458,213.752 161.3,213.752 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon219" />
+	
+		<polygon
+   points="161.804,213.815 161.804,216.243 161.962,216.243 161.962,213.815 161.804,213.815 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon221" />
+	
+		<polygon
+   points="162.309,213.879 162.34,216.306 162.467,216.306 162.467,213.879 162.309,213.879 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon223" />
+	
+		<polygon
+   points="162.845,213.941 162.845,216.369 162.971,216.369 163.002,213.941 162.845,213.941 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon225" />
+	
+		<polygon
+   points="163.349,214.005 163.349,216.433 163.507,216.433 163.507,214.005 163.349,214.005 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon227" />
+	
+		<polygon
+   points="163.854,214.036 163.854,216.464 164.011,216.464 164.011,214.036 163.854,214.036 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon229" />
+	
+		<polygon
+   points="164.358,214.067 164.358,216.526 164.516,216.526 164.516,214.067 164.358,214.067 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon231" />
+	
+		<polygon
+   points="164.895,214.131 164.895,216.559 165.021,216.559 165.021,214.131 164.895,214.131 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon233" />
+	
+		<polygon
+   points="165.398,214.163 165.398,216.59 165.556,216.59 165.556,214.163 165.398,214.163 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon235" />
+	
+		<polygon
+   points="165.903,214.163 165.903,216.621 166.061,216.621 166.061,214.163 165.903,214.163 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon237" />
+	
+		<polygon
+   points="166.408,214.193 166.408,216.621 166.565,216.621 166.565,214.193 166.408,214.193 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon239" />
+	
+		<polygon
+   points="166.943,214.225 166.943,216.653 167.07,216.653 167.07,214.225 166.943,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon241" />
+	
+		<polygon
+   points="167.448,214.225 167.448,216.653 167.605,216.653 167.605,214.225 167.448,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon243" />
+	
+		<polygon
+   points="167.952,214.225 167.952,216.685 168.109,216.685 168.109,214.225 167.952,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon245" />
+	
+		<polygon
+   points="168.457,214.225 168.457,216.685 168.615,216.685 168.615,214.225 168.457,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon247" />
+	
+		<polygon
+   points="168.992,214.225 168.992,216.685 169.119,216.685 169.15,214.225 168.992,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon249" />
+	
+		<polygon
+   points="169.497,214.225 169.497,216.653 169.655,216.653 169.655,214.225 169.497,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon251" />
+	
+		<polygon
+   points="170.002,214.225 170.002,216.653 170.159,216.653 170.159,214.225 170.002,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon253" />
+	
+		<polygon
+   points="170.537,214.193 170.537,216.621 170.664,216.621 170.664,214.193 170.537,214.193 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon255" />
+	
+		<polygon
+   points="171.043,214.193 171.043,216.621 171.199,216.621 171.199,214.193 171.043,214.193 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon257" />
+	
+		<polygon
+   points="171.547,214.163 171.547,216.59 171.704,216.59 171.704,214.163 171.547,214.163 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon259" />
+	
+		<polygon
+   points="172.051,214.131 172.051,216.559 172.209,216.559 172.209,214.131 172.051,214.131 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon261" />
+	
+		<polygon
+   points="172.587,214.1 172.587,216.526 172.713,216.526 172.713,214.1 172.587,214.1 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon263" />
+	
+		<polygon
+   points="173.092,214.036 173.092,216.464 173.249,216.464 173.249,214.036 173.092,214.036 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon265" />
+	
+		<polygon
+   points="173.596,214.005 173.596,216.433 173.754,216.433 173.754,214.005 173.596,214.005 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon267" />
+	
+		<polygon
+   points="174.1,213.941 174.1,216.369 174.258,216.369 174.258,213.941 174.1,213.941 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon269" />
+	
+		<polygon
+   points="174.605,213.879 174.605,216.306 174.763,216.306 174.763,213.879 174.605,213.879 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon271" />
+	
+		<polygon
+   points="175.141,213.815 175.141,216.243 175.267,216.243 175.267,213.815 175.141,213.815 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon273" />
+	
+		<polygon
+   points="175.645,213.752 175.645,216.18 175.803,216.18 175.803,213.752 175.645,213.752 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon275" />
+	
+		<polygon
+   points="176.15,213.689 176.15,216.117 176.307,216.117 176.307,213.689 176.15,213.689 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon277" />
+	
+		<polygon
+   points="176.654,213.595 176.654,216.054 176.812,216.054 176.812,213.595 176.654,213.595 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon279" />
+	
+		<polygon
+   points="177.158,213.531 177.158,215.96 177.316,215.96 177.316,213.531 177.158,213.531 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon281" />
+	
+		<polygon
+   points="177.663,213.438 177.663,215.864 177.82,215.864 177.82,213.438 177.663,213.438 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon283" />
+	
+		<polygon
+   points="178.168,213.343 178.168,215.771 178.325,215.771 178.325,213.343 178.168,213.343 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon285" />
+	
+		<polygon
+   points="178.672,213.248 178.672,215.676 178.83,215.676 178.83,213.248 178.672,213.248 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon287" />
+	
+		<polygon
+   points="179.176,213.153 179.176,215.581 179.334,215.581 179.334,213.153 179.176,213.153 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon289" />
+	
+		<polygon
+   points="179.681,213.059 179.681,215.486 179.838,215.486 179.838,213.059 179.681,213.059 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon291" />
+	
+		<polygon
+   points="180.186,212.933 180.186,215.36 180.343,215.36 180.343,212.933 180.186,212.933 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon293" />
+	
+		<polygon
+   points="180.689,212.807 180.689,215.266 180.848,215.266 180.848,212.807 180.689,212.807 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon295" />
+	
+		<polygon
+   points="181.194,212.712 181.194,215.14 181.32,215.14 181.32,212.712 181.194,212.712 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon297" />
+	
+		<polygon
+   points="181.666,212.586 181.666,215.014 181.824,215.014 181.824,212.586 181.666,212.586 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon299" />
+	
+		<polygon
+   points="182.172,212.46 182.172,214.887 182.33,214.887 182.33,212.46 182.172,212.46 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon301" />
+	
+		<polygon
+   points="182.676,212.303 182.676,214.762 182.833,214.762 182.833,212.303 182.676,212.303 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon303" />
+	
+		<polygon
+   points="183.148,212.176 183.18,214.604 183.307,214.604 183.307,212.176 183.148,212.176 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon305" />
+	
+		<polygon
+   points="183.653,212.019 183.653,214.478 183.811,214.478 183.811,212.019 183.653,212.019 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon307" />
+	
+		<path
+   d="M 116.278,67.558 C 121.385,69.134 126.714,69.954 132.042,69.954 C 137.37,69.954 142.698,69.134 147.774,67.558 L 147.774,67.558 L 147.774,211.546 L 147.774,211.546 C 142.698,213.122 137.37,213.942 132.042,213.942 C 126.714,213.942 121.386,213.123 116.278,211.546 L 116.278,211.546 L 116.278,67.558 L 116.278,67.558 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path309" />
+	
+		<polygon
+   points="127.691,38.52 135.92,38.52 135.92,57.122 127.691,57.122 127.691,38.52 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon311" />
+	
+		<path
+   d="M 120.818,39.056 C 124.601,39.971 128.101,40.38 131.979,40.38 C 135.857,40.38 139.356,39.97 143.14,39.056 L 143.14,39.056 L 143.14,31.647 L 143.14,31.647 C 139.357,32.529 135.857,32.971 131.979,32.971 C 128.101,32.971 124.602,32.53 120.818,31.647 L 120.818,31.647 L 120.818,39.056 L 120.818,39.056 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path313" />
+	
+		<path
+   d="M 123.183,30.071 C 126.146,30.828 128.921,31.174 131.979,31.174 C 135.037,31.174 137.78,30.828 140.775,30.071 L 140.775,30.071 L 140.775,30.071 C 137.78,29.345 135.037,28.998 131.979,28.998 C 128.921,28.998 126.146,29.346 123.183,30.071 L 123.183,30.071 L 123.183,30.071 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path315" />
+	
+		<path
+   d="M 123.183,29.976 L 123.18,29.986 C 126.053,30.671 128.995,31.017 131.948,31.017 C 134.901,31.017 137.843,30.671 140.716,29.986 L 140.776,30.039 L 143.14,31.647 L 143.115,31.663 C 139.467,32.532 135.73,32.971 131.98,32.971 C 128.23,32.971 124.493,32.533 120.845,31.663 L 120.82,31.647 L 123.185,30.039 L 123.185,29.976 L 123.183,29.976 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path317" />
+	
+		<path
+   d="M 116.215,210.379 C 121.291,211.955 126.619,212.744 131.947,212.744 C 137.307,212.744 142.635,211.955 147.711,210.379 L 147.711,210.379 L 148.278,210.852 L 148.278,210.852 C 142.856,212.524 137.622,213.469 131.947,213.469 C 126.303,213.469 121.07,212.586 115.678,210.915 L 115.678,210.915 L 116.215,210.379 L 116.215,210.379 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path319" />
+	
+		<path
+   d="M 115.71,210.946 C 115.71,210.946 123.718,213.468 131.853,213.468 C 139.987,213.437 148.279,210.851 148.279,210.851 L 148.279,210.851 L 148.279,214.792 L 148.279,214.792 C 148.279,214.792 139.987,217.377 131.853,217.409 C 123.719,217.439 115.71,214.886 115.71,214.886 L 115.71,214.886 L 115.71,210.946 L 115.71,210.946 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path321" />
+	
+		<polygon
+   points="116.688,212.019 116.688,214.445 116.846,214.445 116.846,212.019 116.688,212.019 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon323" />
+	
+		<polygon
+   points="117.192,212.176 117.192,214.604 117.35,214.604 117.35,212.176 117.192,212.176 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon325" />
+	
+		<polygon
+   points="117.697,212.303 117.697,214.729 117.823,214.729 117.823,212.303 117.697,212.303 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon327" />
+	
+		<polygon
+   points="118.17,212.46 118.17,214.887 118.327,214.887 118.327,212.46 118.17,212.46 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon329" />
+	
+		<polygon
+   points="118.674,212.586 118.674,215.014 118.832,215.014 118.832,212.586 118.674,212.586 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon331" />
+	
+		<polygon
+   points="119.179,212.712 119.179,215.14 119.336,215.14 119.336,212.712 119.179,212.712 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon333" />
+	
+		<polygon
+   points="119.683,212.807 119.683,215.266 119.81,215.266 119.81,212.807 119.683,212.807 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon335" />
+	
+		<polygon
+   points="120.188,212.933 120.188,215.36 120.313,215.36 120.313,212.933 120.188,212.933 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon337" />
+	
+		<polygon
+   points="120.66,213.059 120.66,215.486 120.818,215.486 120.818,213.059 120.66,213.059 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon339" />
+	
+		<polygon
+   points="121.165,213.153 121.165,215.581 121.323,215.581 121.323,213.153 121.165,213.153 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon341" />
+	
+		<polygon
+   points="121.669,213.248 121.669,215.676 121.827,215.676 121.827,213.248 121.669,213.248 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon343" />
+	
+		<polygon
+   points="122.174,213.343 122.174,215.771 122.332,215.771 122.332,213.343 122.174,213.343 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon345" />
+	
+		<polygon
+   points="122.678,213.438 122.678,215.864 122.836,215.864 122.836,213.438 122.678,213.438 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon347" />
+	
+		<polygon
+   points="123.183,213.531 123.183,215.96 123.34,215.96 123.34,213.531 123.183,213.531 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon349" />
+	
+		<polygon
+   points="123.687,213.595 123.719,216.054 123.845,216.054 123.845,213.595 123.687,213.595 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon351" />
+	
+		<polygon
+   points="124.223,213.689 124.223,216.117 124.35,216.117 124.35,213.689 124.223,213.689 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon353" />
+	
+		<polygon
+   points="124.728,213.752 124.728,216.18 124.885,216.18 124.885,213.752 124.728,213.752 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon355" />
+	
+		<polygon
+   points="125.232,213.815 125.232,216.243 125.39,216.243 125.39,213.815 125.232,213.815 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon357" />
+	
+		<polygon
+   points="125.737,213.879 125.737,216.306 125.894,216.306 125.894,213.879 125.737,213.879 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon359" />
+	
+		<polygon
+   points="126.241,213.941 126.241,216.369 126.398,216.369 126.398,213.941 126.241,213.941 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon361" />
+	
+		<polygon
+   points="126.746,214.005 126.746,216.433 126.903,216.433 126.903,214.005 126.746,214.005 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon363" />
+	
+		<polygon
+   points="127.281,214.036 127.281,216.464 127.439,216.464 127.439,214.036 127.281,214.036 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon365" />
+	
+		<polygon
+   points="127.786,214.067 127.786,216.526 127.943,216.526 127.943,214.067 127.786,214.067 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon367" />
+	
+		<polygon
+   points="128.291,214.131 128.291,216.559 128.448,216.559 128.448,214.131 128.291,214.131 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon369" />
+	
+		<polygon
+   points="128.794,214.163 128.794,216.59 128.953,216.59 128.953,214.163 128.794,214.163 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon371" />
+	
+		<polygon
+   points="129.331,214.163 129.331,216.621 129.457,216.621 129.457,214.163 129.331,214.163 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon373" />
+	
+		<polygon
+   points="129.835,214.193 129.835,216.621 129.993,216.621 129.993,214.193 129.835,214.193 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon375" />
+	
+		<polygon
+   points="130.34,214.225 130.34,216.653 130.497,216.653 130.497,214.225 130.34,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon377" />
+	
+		<polygon
+   points="130.844,214.225 130.844,216.653 131.001,216.653 131.001,214.225 130.844,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon379" />
+	
+		<polygon
+   points="131.38,214.225 131.38,216.685 131.538,216.685 131.538,214.225 131.38,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon381" />
+	
+		<polygon
+   points="131.884,214.225 131.884,216.685 132.042,216.685 132.042,214.225 131.884,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon383" />
+	
+		<polygon
+   points="132.389,214.225 132.389,216.685 132.547,216.685 132.547,214.225 132.389,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon385" />
+	
+		<polygon
+   points="132.925,214.225 132.925,216.653 133.051,216.653 133.051,214.225 132.925,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon387" />
+	
+		<polygon
+   points="133.429,214.225 133.429,216.653 133.587,216.653 133.587,214.225 133.429,214.225 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon389" />
+	
+		<polygon
+   points="133.934,214.193 133.934,216.621 134.091,216.621 134.091,214.193 133.934,214.193 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon391" />
+	
+		<polygon
+   points="134.438,214.193 134.438,216.621 134.596,216.621 134.596,214.193 134.438,214.193 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon393" />
+	
+		<polygon
+   points="134.974,214.163 134.974,216.59 135.101,216.59 135.132,214.163 134.974,214.163 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon395" />
+	
+		<polygon
+   points="135.479,214.131 135.479,216.559 135.636,216.559 135.636,214.131 135.479,214.131 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon397" />
+	
+		<polygon
+   points="135.983,214.1 135.983,216.526 136.141,216.526 136.141,214.1 135.983,214.1 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon399" />
+	
+		<polygon
+   points="136.488,214.036 136.488,216.464 136.645,216.464 136.645,214.036 136.488,214.036 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon401" />
+	
+		<polygon
+   points="137.023,214.005 137.023,216.433 137.149,216.433 137.149,214.005 137.023,214.005 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon403" />
+	
+		<polygon
+   points="137.528,213.941 137.528,216.369 137.686,216.369 137.686,213.941 137.528,213.941 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon405" />
+	
+		<polygon
+   points="138.032,213.879 138.032,216.306 138.19,216.306 138.19,213.879 138.032,213.879 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon407" />
+	
+		<polygon
+   points="138.537,213.815 138.537,216.243 138.695,216.243 138.695,213.815 138.537,213.815 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon409" />
+	
+		<polygon
+   points="139.042,213.752 139.042,216.18 139.199,216.18 139.199,213.752 139.042,213.752 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon411" />
+	
+		<polygon
+   points="139.545,213.689 139.577,216.117 139.703,216.117 139.703,213.689 139.545,213.689 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon413" />
+	
+		<polygon
+   points="140.082,213.595 140.082,216.054 140.208,216.054 140.208,213.595 140.082,213.595 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon415" />
+	
+		<polygon
+   points="140.586,213.531 140.586,215.96 140.712,215.96 140.712,213.531 140.586,213.531 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon417" />
+	
+		<polygon
+   points="141.091,213.438 141.091,215.864 141.249,215.864 141.249,213.438 141.091,213.438 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon419" />
+	
+		<polygon
+   points="141.595,213.343 141.595,215.771 141.752,215.771 141.752,213.343 141.595,213.343 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon421" />
+	
+		<polygon
+   points="142.099,213.248 142.099,215.676 142.226,215.676 142.257,213.248 142.099,213.248 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon423" />
+	
+		<polygon
+   points="142.604,213.153 142.604,215.581 142.73,215.581 142.73,213.153 142.604,213.153 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon425" />
+	
+		<polygon
+   points="143.108,213.059 143.108,215.486 143.234,215.486 143.234,213.059 143.108,213.059 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon427" />
+	
+		<polygon
+   points="143.582,212.933 143.613,215.36 143.739,215.36 143.739,212.933 143.582,212.933 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon429" />
+	
+		<polygon
+   points="144.085,212.807 144.085,215.266 144.244,215.266 144.244,212.807 144.085,212.807 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon431" />
+	
+		<polygon
+   points="144.59,212.712 144.59,215.14 144.748,215.14 144.748,212.712 144.59,212.712 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon433" />
+	
+		<polygon
+   points="145.094,212.586 145.094,215.014 145.252,215.014 145.252,212.586 145.094,212.586 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon435" />
+	
+		<polygon
+   points="145.599,212.46 145.599,214.887 145.757,214.887 145.757,212.46 145.599,212.46 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon437" />
+	
+		<polygon
+   points="146.072,212.303 146.072,214.762 146.23,214.762 146.23,212.303 146.072,212.303 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon439" />
+	
+		<polygon
+   points="146.577,212.176 146.577,214.604 146.734,214.604 146.734,212.176 146.577,212.176 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon441" />
+	
+		<polygon
+   points="147.081,212.019 147.081,214.478 147.239,214.478 147.239,212.019 147.081,212.019 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon443" />
+	
+		<polygon
+   points="101.807,159.556 136.771,159.556 136.771,174.753 101.807,174.753 101.807,159.556 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon445" />
+	
+		<polygon
+   points="101.807,130.361 136.771,130.361 136.771,145.557 101.807,145.557 101.807,130.361 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon447" />
+	
+		<path
+   d="M 144.59,130.329 C 164.705,130.613 169.75,139.914 169.781,152.557 C 169.812,161.385 164.358,175.004 144.149,175.131 L 144.433,159.525 C 149.855,159.84 154.301,157.413 154.396,152.085 C 154.49,147.23 150.077,145.464 144.654,145.558 L 144.59,130.329 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path449" />
+	
+		<polygon
+   points="139.356,77.047 240.31,77.047 240.31,92.213 139.356,92.213 139.356,77.047 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon451" />
+	
+		<polygon
+   points="109.689,188.594 240.31,188.594 240.31,203.789 109.689,203.789 109.689,188.594 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon453" />
+	
+		<polygon
+   points="110.54,102.617 248.349,102.617 248.349,117.813 110.54,117.813 110.54,102.617 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon455" />
+	
+		<path
+   d="M 92.916,102.774 C 53.38,102.711 41.116,131.18 41.147,152.556 C 41.116,187.804 57.889,203.821 92.632,203.788 L 92.506,188.75 C 65.96,188.75 56.628,172.954 56.628,153.501 C 56.659,129.887 69.397,118.064 92.444,117.56 L 92.916,102.774 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path457" />
+	
+		<polygon
+   points="92.223,102.112 110.761,102.112 110.761,118.129 92.223,118.129 92.223,102.112 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon459" />
+	
+		<polygon
+   points="92.223,102.112 92.223,118.129 93.042,118.129 93.042,102.112 92.223,102.112 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon461" />
+	
+		<polygon
+   points="110.761,102.112 110.761,118.129 110.036,117.781 110.036,102.176 110.761,102.112 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon463" />
+	
+		<polygon
+   points="92.223,188.184 110.761,188.184 110.761,204.2 92.223,204.2 92.223,188.184 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon465" />
+	
+		<polygon
+   points="92.223,188.184 92.223,204.2 93.042,204.2 93.042,188.184 92.223,188.184 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon467" />
+	
+		<polygon
+   points="110.761,188.184 110.761,204.2 110.036,203.884 110.036,188.277 110.761,188.184 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon469" />
+	
+		<path
+   d="M 80.336,77.206 C 77.814,76.891 75.102,76.67 71.95,76.417 C 68.702,76.165 65.234,75.818 61.545,75.755 C 57.699,75.597 53.6,75.597 50.101,75.755 C 46.601,75.849 43.259,76.449 41.053,76.701 C 38.877,76.89 37.585,77.015 37.175,77.079 L 37.175,77.079 L 35.851,75.628 L 35.851,75.628 C 35.504,76.164 34.842,76.606 33.991,76.826 C 33.109,76.952 31.879,76.952 30.649,76.952 C 29.356,76.921 27.938,76.921 26.393,76.952 L 26.393,76.952 C 26.267,75.911 25.952,74.934 25.195,74.019 C 24.407,72.979 23.303,71.938 22.011,71.372 C 20.719,70.741 19.205,70.71 17.471,70.552 C 15.737,70.3 13.782,70.174 11.607,70.174 L 11.607,70.174 C 11.796,69.512 11.67,68.976 11.355,68.692 C 11.008,68.346 10.346,68.251 9.495,68.282 L 9.495,68.282 C 9.526,67.368 9.432,66.706 9.085,66.17 C 8.675,65.603 8.265,65.287 7.477,65.098 C 6.625,64.877 5.238,65.035 4.292,65.098 C 3.188,65.003 2.337,64.719 1.612,64.972 C 0.919,65.256 0.477,65.792 0.288,66.58 C 0.004,67.18 0.004,63.648 0.036,69.102 C 0.004,74.683 0.004,93.568 0.162,99.243 C 0.13,104.602 0.13,101.102 0.414,101.765 C 0.666,102.458 1.076,102.994 1.769,103.373 C 2.431,103.561 3.314,103.277 4.417,103.246 C 5.332,103.215 6.813,103.373 7.633,103.246 C 8.39,103.025 8.8,102.711 9.21,102.175 C 9.462,101.639 9.714,100.882 9.62,100.03 L 9.62,100.03 C 10.472,100.061 11.133,99.936 11.48,99.652 C 11.795,99.273 11.921,98.895 11.732,98.17 L 11.732,98.17 C 13.907,98.076 15.862,97.982 17.596,97.761 C 19.33,97.477 20.843,97.54 22.136,96.972 C 23.428,96.31 24.532,95.271 25.321,94.325 C 26.077,93.379 26.393,92.402 26.519,91.392 L 26.519,91.392 C 28.127,91.36 29.514,91.36 30.806,91.392 C 32.068,91.329 33.171,91.329 34.117,91.518 C 35,91.707 35.536,92.148 35.977,92.716 L 35.977,92.716 L 37.332,91.265 L 37.332,91.265 C 37.71,91.265 39.035,91.391 41.179,91.643 C 43.386,91.801 46.728,92.4 50.227,92.589 C 53.727,92.652 57.825,92.652 61.672,92.589 C 65.36,92.4 68.829,92.179 72.076,91.927 C 75.229,91.675 77.941,91.359 80.463,91.108 L 80.463,91.108 L 80.336,77.206 L 80.336,77.206 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path471" />
+	
+		<path
+   d="M 24.059,87.767 L 2.841,87.767 L 2.841,87.767 C 2.62,89.375 2.62,90.573 2.841,91.487 C 2.936,92.306 3.156,92.779 3.85,93.032 C 4.543,93.19 5.994,93.095 6.971,92.748 C 7.791,92.338 7.759,91.267 8.957,90.889 C 10.092,90.385 11.7,90.478 13.655,90.321 C 15.578,90.069 18.542,90.164 20.371,89.753 C 22.104,89.312 23.334,88.65 24.059,87.767 L 24.059,87.767 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path473" />
+	
+		<path
+   d="M 23.775,78.529 L 3.125,78.529 L 3.125,78.529 C 3.062,76.953 3.156,75.755 3.409,74.682 C 3.567,73.485 3.945,72.759 4.544,72.255 C 5.017,71.782 5.869,71.782 6.846,72.129 C 7.855,72.444 9.085,73.895 10.534,74.4 C 11.796,74.747 13.214,74.81 14.791,74.967 C 16.304,75.03 18.385,74.935 19.93,75.534 C 21.379,76.102 22.703,77.142 23.775,78.529 L 23.775,78.529 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path475" />
+	
+		<polygon
+   points="79.989,76.574 139.545,76.574 139.545,92.622 79.989,92.622 79.989,76.574 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon477" />
+	
+		<polygon
+   points="79.989,76.574 79.989,92.622 82.575,92.622 82.575,76.574 79.989,76.574 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon479" />
+	
+		<polygon
+   points="139.545,76.574 139.545,92.622 138.568,92.402 138.568,76.922 139.545,76.574 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon481" />
+	
+		<path
+   d="M 240.31,77.047 C 290.156,76.89 300.685,106.589 300.685,140.419 C 300.685,174.217 285.709,203.475 240.31,203.789 L 240.31,188.594 C 281.926,188.594 283.597,164.696 284.132,140.198 C 284.764,110.278 277.007,92.244 240.31,92.213 L 240.31,77.047 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path483" />
+	
+		<polygon
+   points="292.739,140.449 295.987,140.324 297.658,143.54 294.694,144.201 292.739,140.45 292.739,140.449 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon485" />
+	
+		<polygon
+   points="292.077,142.657 290.879,153.377 293.15,153.723 293.686,145.526 292.077,142.657 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon487" />
+	
+		<polygon
+   points="296.523,136.604 290.376,137.14 288.925,150.287 289.682,152.21 291.447,139.505 296.366,139.031 296.523,136.604 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon489" />
+	
+		<path
+   d="M 300.275,141.333 C 301.378,141.427 302.324,141.995 303.238,142.782 C 304.058,143.571 304.972,144.833 305.509,146.188 C 305.888,147.511 306.17,148.868 305.982,150.381 C 305.761,151.736 304.911,153.218 304.28,154.321 C 303.587,155.267 302.735,155.961 301.852,156.528 C 300.874,157.064 299.802,157.473 298.509,157.757 L 298.509,157.757 C 299.077,152.304 299.676,146.818 300.275,141.333 L 300.275,141.333 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path491" />
+	
+		<path
+   d="M 298.646,143.687 C 301.587,143.687 303.974,146.244 303.974,149.394 C 303.974,152.544 301.587,155.1 298.646,155.1 C 295.706,155.1 293.318,152.544 293.318,149.394 C 293.318,146.244 295.705,143.687 298.646,143.687"
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path493" />
+	
+		<path
+   d="M 264.238,83.448 C 262.472,81.714 260.297,80.358 257.586,79.002 C 254.748,77.647 250.618,76.574 248.001,75.534 C 245.385,74.399 243.967,74.147 242.169,72.476 C 240.246,70.679 238.007,67.873 237.03,65.256 C 236.084,62.545 235.895,59.392 236.337,56.649 C 236.715,53.843 237.598,50.785 239.111,48.578 C 240.435,46.277 242.484,44.385 244.533,43.155 C 246.457,41.863 248.759,41.326 251.186,41.074 C 253.676,40.76 256.892,41.295 259.257,41.358 C 261.432,41.326 263.071,41.39 264.522,41.074 C 265.941,40.664 267.012,39.341 267.99,39.152 C 269,38.9 270.071,39.12 270.355,39.687 C 270.386,40.223 269.881,41.516 269.093,42.336 C 268.337,43.029 267.801,43.628 266.035,44.007 C 264.048,44.259 261.021,44.354 258.279,44.417 C 255.536,44.449 252.477,43.881 250.081,44.417 C 247.685,44.89 245.604,45.868 244.091,47.349 C 242.451,48.736 241.632,50.912 240.907,53.024 C 240.087,55.073 239.803,57.406 239.929,59.55 C 240.086,61.473 240.78,63.459 242.01,65.383 C 243.176,67.305 244.721,69.986 247.023,71.373 C 249.198,72.697 251.563,72.54 255.346,73.454 C 259.098,74.273 265.592,75.376 269.25,76.513 C 272.78,77.616 274.42,78.783 276.47,80.138 C 278.456,81.399 279.938,83.07 281.041,84.426 C 282.113,85.751 282.681,86.917 282.87,88.052 L 282.87,88.052 L 281.892,88.998 L 281.892,88.998 C 279.999,87.295 277.635,86.003 274.671,85.119 C 271.711,84.204 268.274,83.605 264.238,83.448 L 264.238,83.448 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path495" />
+	
+		<polygon
+   points="234.318,155.048 248.349,155.048 248.349,170.244 234.318,170.244 234.318,155.048 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon497" />
+	
+		<path
+   d="M 248.349,102.617 L 249.704,102.585 L 249.704,102.585 C 275.904,102.554 283.565,117.75 283.565,136.414 C 283.565,155.11 268.4,170.275 249.704,170.275 L 249.704,170.275 L 248.349,170.244 L 248.349,155.047 L 248.349,155.048 C 263.892,154.859 266.509,146.22 266.509,136.068 C 266.509,125.884 262.978,117.719 248.349,117.813 L 248.349,117.813 L 248.349,102.617 L 248.349,102.617 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path499" />
+	
+		<polygon
+   points="219.5,154.669 234.508,154.669 234.508,170.686 219.5,170.686 219.5,154.669 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon501" />
+	
+		<polygon
+   points="234.508,154.669 234.508,170.686 233.94,170.339 233.94,154.732 234.508,154.669 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon503" />
+	
+		<polygon
+   points="181.856,143.099 193.111,143.099 193.111,159.114 181.856,159.114 181.856,143.099 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon505" />
+	
+		<polygon
+   points="252.636,202.34 253.172,204.861 265.468,202.245 264.932,199.723 252.636,202.34 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon507" />
+	
+		<polygon
+   points="255.348,204.263 256.23,208.393 264.081,206.722 263.198,202.591 255.348,204.263 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon509" />
+	
+		<path
+   d="M 260.455,216.874 C 260.455,217.599 260.959,217.977 261.969,218.261 C 262.789,218.418 264.081,218.86 266.225,218.261 C 268.432,217.599 271.238,216.495 274.99,214.446 C 278.711,212.271 284.417,209.15 288.326,205.681 C 292.11,202.245 294.632,198.304 297.596,193.859 C 300.434,189.319 303.681,183.265 305.762,178.852 C 307.811,174.342 309.419,168.92 309.862,167.186 C 310.082,165.358 308.978,166.335 307.875,168.541 C 306.771,170.874 305.385,176.297 303.336,180.68 C 301.065,184.967 297.976,190.548 295.17,194.143 C 292.363,197.642 290.441,199.408 286.972,201.868 C 283.315,204.264 277.199,207.1 274.235,208.552 C 271.336,209.875 269.821,210.38 269.696,210.065 L 269.696,210.065 C 269.128,209.309 268.624,208.898 268.182,208.71 C 267.678,208.489 267.363,208.584 266.984,208.994 L 266.984,208.994 C 266.448,209.781 265.691,210.538 264.713,211.138 C 263.673,211.705 262.412,212.115 261.057,212.493 C 259.669,212.808 257.588,212.998 256.517,212.934 C 255.35,212.746 254.593,212.241 254.246,211.42 L 254.246,211.42 C 253.772,213.816 254.12,215.487 255.16,216.434 C 256.23,217.378 257.87,217.41 260.455,216.874 L 260.455,216.874 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path511" />
+	
+		<path
+   d="M 254.402,212.491 C 253.77,211.639 253.519,209.528 254.244,208.708 C 254.875,207.825 256.23,208.203 258.184,207.637 C 260.014,207.005 263.86,205.303 265.467,205.208 C 267.012,204.987 267.139,206.154 267.422,206.879 C 267.643,207.637 267.737,208.455 266.981,209.465 C 266.066,210.348 264.207,211.45 262.725,212.176 C 261.18,212.838 259.54,213.248 258.184,213.405 C 256.703,213.405 255.032,213.217 254.402,212.491 L 254.402,212.491 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path513" />
+	
+		<polygon
+   points="279.246,191.872 280.728,193.605 284.669,190.295 283.188,188.562 279.246,191.872 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon515" />
+	
+		<polygon
+   points="281.642,192.818 286.15,198.146 288.231,196.412 283.723,191.052 281.642,192.818 "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="polygon517" />
+	
+		<path
+   d="M 286.561,200.889 C 287.539,202.056 289.303,202.213 290.501,201.236 C 291.699,200.228 291.825,198.462 290.849,197.263 C 289.84,196.097 288.074,195.94 286.876,196.917 C 285.709,197.926 285.551,199.691 286.561,200.889 L 286.561,200.889 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path519" />
+	
+		<path
+   d="M 287.128,200.385 C 287.853,201.268 289.146,201.363 290.028,200.637 C 290.879,199.912 291.006,198.619 290.249,197.768 C 289.523,196.885 288.231,196.79 287.381,197.516 C 286.528,198.24 286.403,199.533 287.128,200.385 L 287.128,200.385 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path521" />
+	
+		<path
+   d="M 119.305,131.118 C 119.557,129.604 119.4,128.437 118.864,127.555 C 118.297,126.672 117.383,126.105 116.027,125.822 C 108.334,125.822 103.29,125.791 100.768,125.822 C 94.998,125.885 89.354,128.943 89.354,135.437 C 89.354,141.144 93.832,145.527 101.808,145.557 L 101.808,145.557 L 101.808,130.362 L 119.306,130.362 L 119.306,131.118 L 119.305,131.118 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path523" />
+	
+		<path
+   d="M 119.305,160.313 C 119.557,158.831 119.4,157.665 118.864,156.782 C 118.297,155.899 117.383,155.3 116.027,155.017 C 108.334,155.017 103.29,154.985 100.768,155.017 C 94.998,155.111 89.354,158.169 89.354,164.663 C 89.354,170.339 93.832,174.721 101.808,174.783 L 101.808,174.783 L 101.808,159.588 L 119.306,159.588 L 119.306,160.313 L 119.305,160.313 z "
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.99779999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path525" />
+	
+		<path
+   d="M 289.503,195.393 C 292.149,195.393 294.295,197.526 294.295,200.154 C 294.295,202.782 292.149,204.915 289.503,204.915 C 286.858,204.915 284.711,202.782 284.711,200.154 C 284.711,197.526 286.858,195.393 289.503,195.393"
+   style="fill:&fill_color;;fill-rule:evenodd;&stroke_color;;stroke-width:0.036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   id="path527" />
+</g>
+</svg>

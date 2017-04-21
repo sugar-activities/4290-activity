@@ -1,0 +1,7 @@
+[Activity]
+name = Jam2Jam 
+activity_version = 4
+host_version = 1
+bundle_id = au.net.acid.Jam2Jam1
+icon = activity
+exec = sugar-activity activity.Activity

@@ -1,0 +1,8 @@
+Tempo = 120
+Key = A
+Mode = minor
+Volume = 1
+Pitch = 0.6
+Timbre = 0.7
+
+

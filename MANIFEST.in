@@ -1,0 +1,7 @@
+include *.py *.xbm *.in NEWS README COPYING
+recursive-include activity *.svg *.info
+recursive-include City *.py *.aif *.mid *.png *.svg *.txt
+recursive-include icons *.svg
+include po/POTFILES.in
+include olpcgames/COPYING
+recursive-include olpcgames *.py

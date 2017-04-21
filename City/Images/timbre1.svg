@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY ns_svg "http://www.w3.org/2000/svg">
+    <!ENTITY ns_xlink " http://www.w3.org/1999/xlink">
+    <!ENTITY stroke_color "#FFFFFF">
+    <!ENTITY fill_color "#AAAAAA">
+]>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="55" width="55" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<g transform="scale(0.1)">
+<defs></defs>
+<path stroke-linejoin="miter" d="m35.9,302c14.5,60.3,37.3-176,55.9-133,18.6,42.9,32.8,154,68.4,72.3,35.2-80.4,76.7,450,97.4,275,20.7-176,29,81.7,43.5-61.6s47.7-465,62.2-414c14.5,50.9,20.7-25.5,33.2,25.5,12.4,50.9,35.2,425,53.9,303,18.6-122,47.7,145,47.7,145s16.6-580,37.3-367,47.7,271,58,167" stroke="&stroke_color;" stroke-linecap="butt" stroke-width="7.0px" fill="&fill_color;"/>
+</g>
+</svg>

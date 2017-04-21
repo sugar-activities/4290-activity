@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY ns_svg "http://www.w3.org/2000/svg">
+    <!ENTITY ns_xlink " http://www.w3.org/1999/xlink">
+    <!ENTITY stroke_color "#FFFFFF">
+    <!ENTITY fill_color "#AAAAAA">
+]>
+<svg 
+	xmlns:dc="http://purl.org/dc/elements/1.1/" 
+	xmlns:cc="http://creativecommons.org/ns#" 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:svg="http://www.w3.org/2000/svg" 
+	xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="0 0 55 55" id="svg2" 
+	xml:space="preserve">
+
+<g transform="matrix(1.8421646,0,0,1.8380707,-25.647355,-30.762727)" id="g4" style="fill:&fill_color;fill-opacity:1;stroke:&stroke_color;;stroke-opacity:1;display:block">
+	<path d="m 29.839883,39.800078 c -0.656703,-1.654591 -4.125275,-1.218515 -5.667434,-0.0795 -3.084318,2.28145 -1.72335,6.19565 1.808195,4.924898 2.009947,-0.724523 4.514657,-3.188543 3.859239,-4.845401 z" id="path5" style="fill:&fill_color;fill-opacity:1;stroke:&stroke_color;;stroke-width:0.9455061;stroke-opacity:1;display:inline" />
+	<line display="inline" x1="28.941" x2="28.941" y1="39.806" y2="18.613293" id="line7" style="fill:&fill_color;fill-opacity:1;stroke:&stroke_color;;stroke-width:2.89074731;stroke-opacity:1;display:inline" />
+	
+</g><path d="m 29.748122,10.137467 c 0.211458,0.268309 0.356749,0.664079 0.501623,1.030377 0.240988,0.61672 0.53987,1.150469 0.849227,1.670297 0.452593,0.723175 0.824834,1.568635 1.194231,2.409916 0.270021,0.501826 0.482699,1.110523 0.821788,1.493117 0.200626,0.188553 0.42632,0.21752 0.65103,0.228871 0.223428,0.0046 0.446828,-0.0029 0.670221,-0.0069 0,0 -0.305443,0.372792 -0.305443,0.372792 l 0,0 c -0.223846,0.0033 -0.447719,0.0099 -0.671571,0.0049 -0.229624,-0.01678 -0.458431,-0.05843 -0.659782,-0.262271 -0.335163,-0.400196 -0.544948,-1.013758 -0.812113,-1.527089 -0.364844,-0.845311 -0.743027,-1.678189 -1.197995,-2.395402 -0.310117,-0.523936 -0.61672,-1.053655 -0.858698,-1.674559 -0.141558,-0.350244 -0.28496,-0.749892 -0.501166,-0.981584 0,0 0.318631,-0.362472 0.318631,-0.362472 z" id="path2994" style="fill:&fill_color;fill-opacity:1;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:7.43668318;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" /></svg>
